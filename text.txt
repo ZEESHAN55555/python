@@ -1,0 +1,1 @@
+Withdrawal: $1000Withdrawal: $200Withdrawal: $20Withdrawal: $200.0Withdrawal: $200.0Deposit: $5000.0Withdrawal: $200.0
