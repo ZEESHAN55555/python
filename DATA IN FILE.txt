@@ -1,0 +1,10 @@
+101,Virat Kohli,1000,25,10
+102,Rohit Sharma,400,20,5
+103,Jasprit Bumrah,200,100,5
+104,MS Dhoni,4000,6,4
+105,Shikhar Dhawan,3500,0,10
+106,Yuzvendra Chahal,150,75,2
+107,Hardik Pandya, 2000,50,30
+109,Kuldeep Yadav,724,12,52
+110,Ravindra Jadeja,3000,200,20
+111,Sanju,800,18,20
